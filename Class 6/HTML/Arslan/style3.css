@@ -1,0 +1,15 @@
+.abc{
+    letter-spacing: 50px;
+    color: aliceblue;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+div{
+    width: 400px;
+    margin-left: 500px;
+}
+hr{
+    height: 20px;
+    background-color: aqua;
+}

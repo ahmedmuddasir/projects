@@ -1,0 +1,19 @@
+.abc>button{
+    color: rgb(75, 62, 62);
+     border-radius:10px;
+    background-color: rgb(12, 133, 133);
+    border-color: whitesmoke;
+}
+
+#abc{
+    width: 40%;
+    height: 15px;
+    border-radius: 20px;
+}
+
+.ttt{
+    color: whitesmoke;
+    font-style: italic;
+    
+
+}

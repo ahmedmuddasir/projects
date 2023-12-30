@@ -1,0 +1,29 @@
+
+body{
+    background-color:grey;
+    color: black;
+    text-align: center;
+}
+
+table{
+    border: 2px solid black;
+}
+#aaa{
+    background-color: aliceblue;
+    color: black;
+}
+
+#bbb{
+    background-color: yellow;
+    color: black;
+}
+
+#ccc{
+    background-color: red;
+    color: black;
+}
+
+#ddd{
+    background-color: blue;
+    color: black;
+}
